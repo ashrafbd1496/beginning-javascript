@@ -37,6 +37,7 @@ if (8 == c) {
 }else{
 	console.log("c is not equal to 8");
 }
-
-console.log(c);
-
+/*/N.B- comparison korar somoy if er condition er vitor 
+	compare vlue ta sob somoy  left side a rakhte hobe. tabhole vul 
+	holeo somossa nei.
+*/
